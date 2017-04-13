@@ -1,5 +1,19 @@
 
+@import 'node_modules/foundation-sites/scss/foundation';
+@include foundation-global-styles;
+@include foundation-grid;
 
-header h1 {
-    text-align: center;
+body {
+    background-color: magenta;
 }
+header {
+
+    h1 {
+    text-align: center;
+    }
+}
+
+div {
+        margin: 5%;
+    }
+
