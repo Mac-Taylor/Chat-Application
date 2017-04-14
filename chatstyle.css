@@ -1379,10 +1379,21 @@ header h1 {
 
 div {
   margin: 5%; }
+  div button {
+    color: darkgreen;
+    background-color: yellow;
+    padding: 5px; }
 
-div button {
-  background-color: limegreen;
-  border: solid black 1pt;
-  padding: 5px; }
+section {
+  margin: 5%; }
+  section p {
+    color: yellow;
+    background-color: darkgreen;
+    padding: 5px;
+    width: 13%; }
+  section button {
+    color: darkgreen;
+    background-color: yellow;
+    padding: 5px; }
 
 /*# sourceMappingURL=chatstyle.css.map */

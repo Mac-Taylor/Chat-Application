@@ -6,9 +6,8 @@
 body {
     background-color: magenta;
 }
-
-
 header {
+
     h1 {
     text-align: center;
     }
@@ -16,12 +15,25 @@ header {
 
 div {
         margin: 5%;
+        button {
+            color: darkgreen;
+            background-color: yellow;
+            padding: 5px;
+        }
     }
 
-div {
+section {
+    margin: 5%;
+    p {
+        color: yellow;
+        background-color: darkgreen;
+        padding: 5px;
+        width: 13%;
+    }
     button {
-        background-color: limegreen;
-        border: solid black 1pt;
+        color: darkgreen;
+        background-color: yellow;
         padding: 5px;
     }
 }
+
