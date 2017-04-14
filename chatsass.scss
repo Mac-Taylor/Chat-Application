@@ -6,8 +6,9 @@
 body {
     background-color: magenta;
 }
-header {
 
+
+header {
     h1 {
     text-align: center;
     }
@@ -17,3 +18,10 @@ div {
         margin: 5%;
     }
 
+div {
+    button {
+        background-color: limegreen;
+        border: solid black 1pt;
+        padding: 5px;
+    }
+}

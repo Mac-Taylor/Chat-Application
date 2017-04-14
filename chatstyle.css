@@ -1380,4 +1380,9 @@ header h1 {
 div {
   margin: 5%; }
 
+div button {
+  background-color: limegreen;
+  border: solid black 1pt;
+  padding: 5px; }
+
 /*# sourceMappingURL=chatstyle.css.map */
