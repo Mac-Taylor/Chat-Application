@@ -1,1 +1,5 @@
 //I need help on this assignment 
+
+@import 'node_modules/foundation-sites/scss/foundation';
+@include foundation-global-styles;
+@include foundation-grid;
